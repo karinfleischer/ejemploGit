@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "firstName": "Ayesha",
+      "lastName": "Anum",
+      "Email": "ayesha@gmail.com",
+      "Mobile": "02309023",
+      "Salary": "1200000",
+      "id": 6
+    },
+    {
+      "firstName": "sameh",
+      "lastName": "UL HAQ",
+      "Email": "SAMEHULHAQ142@GMAIL.COM",
+      "Mobile": "02302434023",
+      "Salary": "2000000",
+      "id": 7
+    },
+    {
+      "firstName": "Muhammad ",
+      "lastName": "Ali",
+      "Email": "ALI@gmail.com",
+      "Mobile": "34534535",
+      "Salary": "1200000",
+      "id": 8
+    },
+    {
+      "firstName": "Karin",
+      "lastName": "Fleischer",
+      "Email": "kfleischer@gmail.com",
+      "Mobile": "1134323440",
+      "Salary": null,
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
